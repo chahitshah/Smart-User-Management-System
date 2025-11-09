@@ -27,5 +27,5 @@ This project demonstrates modern full-stack development practices with a focus o
 
 ---
 
-## 📂 Project Structure
+
 
